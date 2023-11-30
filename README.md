@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihalokumus
-- 👀 I’m interested in software and sport.
+- 👀 I’m interested in software.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me?: Lınkedin(www.linkedin.com/in/nihal-okumuş-b4964a248/) and Instagram (https://www.instagram.com/_nihalokumus/)
 
